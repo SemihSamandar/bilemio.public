@@ -1,3 +1,7 @@
+<p>
+<img src="docs/images/logo.png" width="220" alt="bilemio logo" />
+</p>
+
 # bilemio
 
 > **Note:** The source code of bilemio lives in a private repository. This public repo is a
@@ -11,6 +15,16 @@ same puzzle that day.
 
 <p>
 <img src="https://img.shields.io/badge/App_Store-Coming_soon-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store: coming soon" />
+</p>
+
+## Screenshots
+
+<p>
+<img src="docs/images/onboarding.png" width="160" alt="Onboarding" />
+<img src="docs/images/home.png" width="160" alt="Today's games" />
+<img src="docs/images/ekle.png" width="160" alt="Ekle" />
+<img src="docs/images/beslik.png" width="160" alt="Beşlik" />
+<img src="docs/images/abece.png" width="160" alt="Abece" />
 </p>
 
 ## Games
